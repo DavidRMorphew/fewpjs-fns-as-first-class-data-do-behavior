@@ -31,6 +31,5 @@ function greet(timeString) {
 /* Write your implementation of displayMessage() */
 function displayMessage(string) {
   greeting.innerText = string;
-  return(string);
+  // return(string);
 }
-// console.log(displayMessage(greet("17:00")));
