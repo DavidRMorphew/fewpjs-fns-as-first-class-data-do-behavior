@@ -31,5 +31,4 @@ function greet(timeString) {
 /* Write your implementation of displayMessage() */
 function displayMessage(string) {
   greeting.innerText = string;
-  // return(string);
 }
