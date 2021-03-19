@@ -24,7 +24,7 @@ function greet(timeString) {
   } else if (12.00 <= joinedArray && joinedArray <= 17.00) {
     return "Good Afternoon";
   } else {
-    return "Good Evening"
+    return "Good Evening";
   }
 }
 
